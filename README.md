@@ -8,6 +8,5 @@
 ![](https://img.shields.io/badge/swift-red?style=flat&logo=swift&logoColor=red&logoSize=auto&color=%23B91D24&cacheSeconds=3600)
 
 
-<img src ="./assets/bg-3.webp" width="95%">
 
 </div>
