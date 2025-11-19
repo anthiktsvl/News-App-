@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/anthiktsvl/News-App-" target="blank">
-<img src="/Users/anthikouts/Documents/news-icon-for-your-website-design-logo-app-ui-free-vector.jpg" width="90" alt="Logo" />
+<img src="/Users/anthikouts/Documents/news-icon-for-your-website-design-logo-app-ui-free-vector.jpg" width="90"  />
 </a>
 
 <h2> Project Name : News App </h2>
