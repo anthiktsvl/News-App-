@@ -5,8 +5,7 @@
 
 <h2> Project Name : News App </h2>
 
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/swift-red?style=flat&logo=swift&logoColor=red&logoSize=auto&color=%23B91D24&cacheSeconds=3600
-)
+![](https://img.shields.io/badge/swift-red?style=flat&logo=swift&logoColor=red&logoSize=auto&color=%23B91D24&cacheSeconds=3600)
 
 
 <img src ="./assets/bg-3.webp" width="95%">
